@@ -1,0 +1,21 @@
+
+server:
+  port: 8082
+spring:
+  application:
+    name: course-center
+  datasource:
+    url: jdbc:mysql://120.26.177.51:3306/qj_course_center
+    hikari:
+      username: root
+      password: abc.123
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
