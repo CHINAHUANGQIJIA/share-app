@@ -1,17 +1,16 @@
-package com.soft1851.qjusercenter;
+package com.soft1851.qjcontentcenter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 
 /**
  * @author 小半吻
  */
 @SpringBootApplication
-public class UserCenterApplication {
+public class ContentCenterApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UserCenterApplication.class, args);
+        SpringApplication.run(ContentCenterApplication.class, args);
     }
 
 }
