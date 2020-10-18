@@ -2,48 +2,61 @@
 
 1.首页
 
-![](D:\35s\1.png)
+![图片](https://uploader.shimo.im/f/T6wPfBFYG4R2TNvh.png!thumbnail)
+
 
 2.资源加载
 
-![](D:\35s\2.png)
+![图片](https://uploader.shimo.im/f/XFoCrqi1irvdF3Yf.png!thumbnail)
+
 
 3.加载完毕
 
-![](D:\35s\3.png)
+![图片](https://uploader.shimo.im/f/vE1AhLdg60o2ma3m.png!thumbnail)
+
 
 4.资源搜索
 
-![](D:\35s\4.png)
+![图片](https://uploader.shimo.im/f/7DvO6J87DDC0aqrM.png!thumbnail)
+
 
 5.资源详情
 
-![](D:\35s\5.png)
+![图片](https://uploader.shimo.im/f/7l78084hO4cNK59R.png!thumbnail)
+
 
 6.投稿
 
-![](D:\35s\6.png)
+![图片](https://uploader.shimo.im/f/99lJBkTJc7j2SMC4.png!thumbnail)
+
 
 7.未登录
 
-![](D:\35s\7.png)
+![图片](https://uploader.shimo.im/f/HTVcZRhnuJeLiKbu.png!thumbnail)
+
 
 8.个人中心
 
-![](D:\35s\8.png)
+![图片](https://uploader.shimo.im/f/aoRfGi55Qjgihurs.png!thumbnail)
+
 
 9.我的兑换
 
-![](D:\35s\9.png)
+![图片](https://uploader.shimo.im/f/vqXmtZHqFMvxQUIE.png!thumbnail)
+
 
 10.积分明细
 
-![](D:\35s\10.png)
+![图片](https://uploader.shimo.im/f/OKKLjbPvimYUWN4E.png!thumbnail)
+
 
 11.我的投稿
 
-![](D:\35s\11.png)
+![图片](https://uploader.shimo.im/f/QLLPP8Fz1Iya051K.png!thumbnail)
+
 
 12.审核投稿
 
-![](D:\35s\12.png)
+![图片](https://uploader.shimo.im/f/UKw5mxYXSfCv3aZr.png!thumbnail)
+
+
